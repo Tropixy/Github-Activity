@@ -76,6 +76,10 @@ python "Github Activity.py"
 2.  Press `Enter` or click the "Show Activity" button.
 3.  The user's recent public activity will be fetched and displayed in the table.
 
+## 💡 Inspiration
+
+This project is a feature-rich, graphical implementation inspired by the "GitHub User Activity" project specification from [roadmap.sh](https://roadmap.sh/projects/github-user-activity). While the original concept was for a simple command-line tool, this application expands upon it with a full desktop experience.
+
 ## 📸 Screenshots
 
 <p align="center">
